@@ -1,6 +1,16 @@
 This is KillerBee - Framework and Tools for Attacking ZigBee and IEEE 802.15.4
 networks.
 
+******************************************************************************
+******************************************************************************
+This is the "bleeding edge" branch of KillerBee, meant for large changes to
+be developed and tested as well as integration of cutting-edge tools from
+the authors or contributers. The documentation may be out of date, the code
+may not function as expected, and extensive testing has NOT been done.
+Use at your own risk, however bug fixes and contributions are welcome!
+******************************************************************************
+******************************************************************************
+
 Copyright 2009, Joshua Wright <jwright@willhackforsushi.com>
 Copyright 2010-13, Ryan Speers <ryan@rmspeers.com>
                    Ricky Melgares <rmelgares@dartmouth.edu>
